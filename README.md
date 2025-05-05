@@ -64,4 +64,4 @@ streamlit run app.py
 
 ## Conclusion
 
-This project demonstrates the power of machine learning in healthcare by providing a predictive tool for heart disease detection. It can assist healthcare professionals in making informed decisions and improving patient outcomes.
+This project demonstrates the power of machine learning in healthcare by providing a predictive tool for heart disease detection. It can assist healthcare professionals in making informed decisions and improving patient outcomes
